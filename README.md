@@ -1,5 +1,5 @@
 # Malong Maker
-![Malong Maker](./assets/images/Icon.jpg)
+![Malong Maker](./images/Icon.jpg)
 Welcome to my portfolio! I’m Joshua Malong Maker, a passionate software developer, data analyst, and humanitarian from Kakuma, Kenya. My mission is to leverage technology for positive social impact and personal empowerment.
 
 ## About Me
